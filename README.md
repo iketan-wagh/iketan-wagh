@@ -65,16 +65,16 @@
 - 🔍 **[House Price Prediction Model](#)**  
   Using regression techniques to estimate housing prices with interpretability.
 
-- 📈 **Stock Market Pattern Analyzer**  
+- 📈 **[Stock Market Pattern Analyzer](#)**  
   Visualizes trends, support/resistance levels, and predicts potential movements.
 
-- 🎓 **Student Assessment System**  
+- 🎓 **[Student Assessment System](#)**  
   Analyzes student performance and recommends learning paths.
 
-- 🤖 **RAG-based Chatbot (In Progress)**  
+- 🤖 **[RAG-based Chatbot (In Progress)](#)**  
   Retrieval-augmented chatbot that answers questions based on external docs.
 
-- 🌐 **Flask-Powered Data Dashboard**  
+- 🌐 **[Flask-Powered Data Dashboard](#)**  
   Converts data science projects into responsive, user-friendly web apps.
 
 ---
